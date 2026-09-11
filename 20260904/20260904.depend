@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1788559370 source:c:\users\usuario\documents\modelagem 3d\20260904\main.cpp
+	<GL/freeglut.h>
+	<iostream>
+
+1788542598 c:\users\usuario\documents\modelagem 3d\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1788542598 c:\users\usuario\documents\modelagem 3d\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1788542598 c:\users\usuario\documents\modelagem 3d\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
